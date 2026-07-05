@@ -1,0 +1,38 @@
+
+
+    body{
+      background: #FFF4E5;
+      font-family: sans-serif;
+      padding: 40px;
+    }
+
+    .box{
+      background: white;
+      padding: 30px;
+      border-radius: 20px;
+      max-width: 700px;
+      margin: auto;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    }
+
+    .title{
+      text-align: center;
+      color: #FF8A00;
+      margin-bottom: 25px;
+      font-weight: bold;
+    }
+
+    .btn-register{
+      background: #FF8A00;
+      color: white;
+      border: none;
+      width: 100%;
+      padding: 10px;
+      border-radius: 30px;
+      font-weight: bold;
+    }
+
+    .btn-register:hover{
+      background: #e67900;
+    }
+
