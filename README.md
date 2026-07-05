@@ -2,6 +2,15 @@
 
 Website makanan sederhana menggunakan PHP, CSS, JavaScript, dan penyimpanan data berbasis TXT.
 
+## Cara Menjalankan
+
+1. Install Laragon atau XAMPP.
+2. Salin project ke folder `www` atau `htdocs`.
+3. Jalankan Apache.
+4. Buka `http://localhost/foodie-website`.
+
+## Screenshots
+
 ### Halaman Beranda
 ![Beranda](Screenshot-website/beranda.png)
 
